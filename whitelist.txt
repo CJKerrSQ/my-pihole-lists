@@ -1,1 +1,2 @@
 ipv4.icanhazip.com
+device-provisioning.googleapis.com
