@@ -3,4 +3,5 @@ device-provisioning.googleapis.com
 vsee.com
 gstaticadssl.l.google.com
 assets.penny-arcade.com
-px.srvcs.tumblr.com
+media.tumblr.com
+srvcs.tumblr.com
