@@ -5,3 +5,4 @@ gstaticadssl.l.google.com
 assets.penny-arcade.com
 media.tumblr.com
 srvcs.tumblr.com
+cs1143.wpc.chicdn.net
